@@ -1,0 +1,19 @@
+h1 {
+    color: blue;
+}
+body {
+  
+    background-image:repeating-linear-gradient(red 10%, yellow 5%, green 20%);
+    
+}
+p {
+    color:red;
+}
+
+strong {
+    color:green;
+}
+
+a {
+    color:blueviolet;
+}
